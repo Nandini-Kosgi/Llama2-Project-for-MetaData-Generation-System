@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+*.env
+
+# Data and indexes
+data/raw/*
+data/processed/*
+index/*
+out/*
+
+# Models (too large for GitHub)
+models/*
