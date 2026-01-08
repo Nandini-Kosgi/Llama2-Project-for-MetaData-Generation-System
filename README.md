@@ -92,7 +92,6 @@ llama2-metadata-generation/
 
 ## 👤 Author
 Nandini Kosgi 
-- LinkedIn:  https://www.linkedin.com/in/nandinikosgi/ 
- 
+
 
 ---
